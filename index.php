@@ -1,3 +1,5 @@
 <?php
-header('location: /login/');
+
+Header('Location: auth/auth-login');
+
 ?>
