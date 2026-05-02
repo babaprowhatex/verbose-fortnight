@@ -1,5 +1,5 @@
 <?php
 
-Header('Location: auth/auth-login');
+Header('Location: ../404.html');
 
 ?>
